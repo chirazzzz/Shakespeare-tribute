@@ -1,0 +1,12 @@
+body {
+  font-family: 'Slabo 27px', serif; 
+}
+
+.jumbotron {
+	background-image: url('shakespeare-low-qual-collage.jpg');
+	background-size: cover; 
+}
+
+#copyright {
+	text-decoration: none;
+}
